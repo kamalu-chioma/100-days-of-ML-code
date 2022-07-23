@@ -7,4 +7,4 @@ i.)   Applications of machine Learning
 <br>
 ii.)  Supervised learning types- Regression and Classification
 <br>
-iii.) Unsupervised Learning Types: Clustering and types(Exclusive, Overlapping, hierarchical and probabilitic)
+iii.) Unsupervised Learning Types: Clustering and types (Exclusive, Overlapping, hierarchical and probabilistic)
